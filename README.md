@@ -1,6 +1,11 @@
 # Taking advanatage of SSTI
 Recreated the Templated challenge in Hack the Box
 
+## How to run \
+1. ```git clone https://github.com/p-cap/HTB-Templated.git```
+2. ```python3 demo.py```
+3. Copy / paste the payload below
+
 ## Payload
 
 http://localhost:5000/{{7*7}}
